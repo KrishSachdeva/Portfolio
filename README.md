@@ -5,11 +5,14 @@
 🧠 Passionate about software development, gaming, AI, and entreprenurship
 
 ## 📂 Featured Projects
-- 🐍  Snake Game: https://github.com/KrishSachdeva/Snake-Game.git
-- 💡 Grade Converter: https://github.com/KrishSachdeva/Grade-Converter.git
-- 𝌭 Benfords Law: https://github.com/KrishSachdeva/Benfords-Law.git
-- 📉 Descriptive Stats: https://github.com/KrishSachdeva/DescStats.git
-- Tambola Bingo Generator: https://github.com/KrishSachdeva/Tambola-Bingo.git
+- 🐍  Snake Game: https://github.com/KrishSachdeva/Snake-Game.git (Java)
+- 💡 Grade Converter: https://github.com/KrishSachdeva/Grade-Converter.git (Python)
+- 🧟‍♂️ Zombie Theme Simulation: https://github.com/KrishSachdeva/ZombieSim.git (C++)
+- 🎲 Tambola Bingo Generator: https://github.com/KrishSachdeva/Tambola-Bingo.git (Python)
+- 𝌭 Benfords Law: https://github.com/KrishSachdeva/Benfords-Law.git (Python)
+- 📉 Descriptive Stats: https://github.com/KrishSachdeva/DescStats.git (Python)
+- 🎒 Grab Bag: https://github.com/KrishSachdeva/GrabBag.git (C++)
+
 
 ## 📂 Other Projects
 
