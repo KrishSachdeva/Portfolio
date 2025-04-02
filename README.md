@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Krish Sachdeva
 
 🎓 Computer Science @ Arizona State University
-💼 Avid Gamer and Coder | Tech Analyst @ ASU College of Health Solutions
-🧠 Passionate about software development, AI, and entreprenurship
+💼 Tech Analyst @ ASU College of Health Solutions
+🧠 Passionate about software development, gaming, AI, and entreprenurship
 
 ## 📂 Featured Projects
 - 🐍  Snake Game: https://github.com/KrishSachdeva/Snake-Game.git
@@ -18,5 +18,15 @@ Used Python for data cleaning, SQL for querying to analyze salary trends across 
 - **Movie Rating Dashboard**
 Designed and implemented a relational database system to analyze movie ratings. The project focused on storing and querying user interactions with movies, allowing for insights into genre popularity, top-rated movies, and user activity. Emphasized efficient SQL queries, and basic data analytics.
 
+## 📂 Skills
+**Coding Languages**: Java, HTML, CSS, C++ , MIPS, Python
+**Design Software**: Canva, Adobe Photoshop and Illustrator 	
+**Office Tools**: Microsoft Office and Google Suite 
+**Technologies:** GitHub, VS Code, NodeJS, Eclipse, React, IntelliJ 	
+**CRM and Web:** Salesforce, WordPress, ServiceNow, Trello 	
+**Certification:** Gaming Market Research - Mobalytics 
+
+
 ## 🌐 Connect with me
 https://www.linkedin.com/in/krishsachdeva/
+
